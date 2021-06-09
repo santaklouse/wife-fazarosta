@@ -1,0 +1,16 @@
+{
+  "name": "wife-fazarosta-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wife_fazarosta.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^10.0.0"
+  }
+}
