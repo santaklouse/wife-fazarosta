@@ -4,13 +4,19 @@
   "description": "",
   "main": "wife_fazarosta.js",
   "type": "module",
+  "engines": {
+    "node": ">=16"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fast-glob": "^3.2.5",
     "node-fetch": "^2.6.1",
-    "puppeteer": "^10.0.0"
+    "puppeteer": "^10.0.0",
+    "tail": "^2.2.2",
+    "yargs": "^17.0.1"
   }
 }
