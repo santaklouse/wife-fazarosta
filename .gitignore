@@ -49,3 +49,7 @@ Thumbs.db
 *.wmv
 
 out/*
+
+.idea
+
+.chromeDataDir
